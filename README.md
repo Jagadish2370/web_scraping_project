@@ -17,7 +17,6 @@ This project is a web scraping tool designed to extract movie and TV show data f
 *Exports results to CSV files
 
 ### Requirements
-
 *Python 3.x
 *BeautifulSoup4
 *Requests
